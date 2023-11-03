@@ -4,12 +4,12 @@ A user configuration template for [AstroNvim](https://github.com/AstroNvim/Astro
 
 ## PreRequiste
 
-_) go
-_) python
-_) node
-_) npm
-_) ripgrep
-_) lazygit
+1. go
+2. python
+3. node
+4. npm
+5. ripgrep
+6. lazygit
 
 ## 🛠️ Installation
 
