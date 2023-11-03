@@ -2,6 +2,15 @@
 
 A user configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
+## PreRequiste
+
+_) go
+_) python
+_) node
+_) npm
+_) ripgrep
+_) lazygit
+
 ## 🛠️ Installation
 
 #### Make a backup of your current nvim and shared folder
@@ -26,7 +35,7 @@ You can also just clone this repository directly if you do not want to track you
 #### Clone the repository
 
 ```shell
-git clone https://github.com/<your_user>/<your_repository> ~/.config/nvim/lua/user
+git clone git@github.com:jabhishek87/astrovim-config.git ~/.config/nvim/lua/user/
 ```
 
 #### Start Neovim
